@@ -1,0 +1,42 @@
+_repo: Kolme-miesta-veneessa_53008
+_version: 0.0.1
+alternative_title: Three men in a boat. Finnish
+contributor:
+  translator:
+    agent_name: Brummer, Uno
+    aliases:
+    - U. B.
+    - B., U.
+    birthdate: 1871
+    deathdate: 1913
+    gutenberg_agent_id: '6621'
+    url: http://www.gutenberg.org/2009/agents/6621
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2016-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53008'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Boats and boating -- England -- Thames River -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young men -- Travel -- England -- Thames River -- Fiction'
+- !lcsh 'Thames River (England) -- Fiction'
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Humorous stories, English'
+- GITenberg
+title: Kolme miestä veneessä
+url: http://www.gutenberg.org/ebooks/53008
